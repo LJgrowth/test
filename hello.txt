@@ -1,0 +1,3 @@
+start to study git!!
+toa
+nothingto commit (create/copy files and use "git add" to track)
