@@ -1,6 +1,6 @@
 start to study git!!
 first add memory
-
+master
 new update in new-branch
 
 
