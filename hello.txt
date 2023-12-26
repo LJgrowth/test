@@ -1,6 +1,7 @@
 start to study git!!
 first add memory
 master
+update in web
 update in new-branch
 new update in new-branch
 
